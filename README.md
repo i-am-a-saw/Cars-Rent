@@ -1,0 +1,1 @@
+The repo contains files of a site devoted to renting cars online. The site consists of 1 page with a list of cars and an order form. The site is reachable via link: https://i-am-a-saw.github.io/Cars-Rent/
